@@ -364,7 +364,7 @@ export default function App() {
                 { icon: Code, title: 'Languages', desc: 'Python, C, PHP' },
                 { icon: Wrench, title: 'Frameworks', desc: 'Laravel' },
                 { icon: Database, title: 'Platforms', desc: 'WordPress, MySQL' },
-                { icon: PenTool, title: 'Tools', desc: 'Photoshop, Excel, PowerPoint' }
+                { icon: PenTool, title: 'Tools', desc: 'Photoshop, Figma, Excel, PowerPoint' }
               ].map((skill, index) => (
                 <motion.div
                   key={index}
