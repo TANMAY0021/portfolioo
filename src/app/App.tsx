@@ -415,7 +415,7 @@ export default function App() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
               {[
                 {
-                  title: 'AgroSense Website',
+                  title: 'AgroSense Website (On Going)',
                   tags: ['Python', 'React', 'MongoDB'],
                   desc: 'System to predict crop yield and detect disease.',
                   link: 'https://farm-intelligence-system.vercel.app/'
