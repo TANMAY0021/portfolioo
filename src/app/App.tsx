@@ -421,6 +421,12 @@ export default function App() {
                   link: 'https://github.com/TANMAY0021/restaurant_Project'
                 },
                 {
+                  title: 'Restaurant Management System',
+                  tags: ['PHP', 'Laravel', 'MySQL'],
+                  desc: 'System to manage restaurant operations and records.',
+                  link: 'https://github.com/TANMAY0021/restaurant_Project'
+                },
+                {
                   title: 'Membership Management System',
                   tags: ['WordPress', 'PHP'],
                   desc: 'Membership-based site with user access control.',
